@@ -1,0 +1,11 @@
+id,productName,departmentName,price,stockQuantity	
+1,Bannanas,Food,2.5,189
+2,Chocolate Ice-cream,Food,7.9,53	
+3,Soccer Ball,Sports,20.0,35	
+4,Basketball,Sports,25.6,61	
+5,Lamp,Household,45.0,15	
+6,Desk,Household,120.4,6	
+7,Shampoo,Selfcare,3.8,30	
+8,Deodorant,Selfcare,4.3,86	
+9,Speakers,Electronics,38.9,20	
+10,Television,Electronics,399.0,25	
